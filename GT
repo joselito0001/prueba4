@@ -1,0 +1,67 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="",Barbe TV
+https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
+
+#EXTINF:-1 group-title="",Canal 3
+https://dslvfq5ee0geu.cloudfront.net/hls/canal3.m3u8
+
+#EXTINF:-1 group-title="",Canal 100 Chinique
+https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
+
+#EXTINF:-1 group-title="",El Olam TV
+https://video1.getstreamhosting.com:1936/8476/8476/playlist.m3u8
+
+#EXTINF:-1 group-title="",Expresión TV
+https://cdn.streamhispanatv.net:3508/live/extvlive.m3u8
+
+#EXTINF:-1 group-title="",Guatevisión
+https://prensalibre-live.cdn.vustreams.com/live/cd8f5328-7a1c-49d9-b318-9190858d1826/live.isml/playlist.m3u8
+
+#EXTINF:-1 group-title="",Iglesia Del Camino [Not 24/7]
+http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8
+
+#EXTINF:-1 group-title="",Nim TV
+https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
+
+#EXTINF:-1 group-title="",Nuevo Mundo TV
+https://tvlatina.live:1936/8030/8030/playlist.m3u8
+
+#EXTINF:-1 group-title="",Peniel K&Y
+https://cdn.streamhispanatv.net:3155/live/penielkidslive.m3u8
+
+#EXTINF:-1 group-title="",Rhema TV
+https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8
+
+#EXTINF:-1 group-title="",Telecosta
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+
+#EXTINF:-1 group-title="",Televisiete
+https://dslvfq5ee0geu.cloudfront.net/hls/canal7.m3u8
+
+#EXTINF:-1 group-title="",TN 23
+https://dslvfq5ee0geu.cloudfront.net/hls/canal23.m3u8
+
+#EXTINF:-1 group-title="",Totovisión TV
+https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
+
+#EXTINF:-1 group-title="",Tunevisión
+https://cdn.streamhispanatv.net:3852/live/tunevisionlive.m3u8
+
+#EXTINF:-1 group-title="",TVS Retro
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
+#EXTINF:-1 group-title="",Única TV
+https://cdn.streamhispanatv.net:3642/live/unicatvlive.m3u8
+
+#EXTINF:-1 group-title="",Vea Canal [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://twitch.tv/veacanalgt
+
+#EXTINF:-1 group-title="",Visión TV
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://dslvfq5ee0geu.cloudfront.net/hls/canal23.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://dslvfq5ee0geu.cloudfront.net/hls/canal23.m3u8

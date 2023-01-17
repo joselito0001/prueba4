@@ -1,0 +1,70 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="",Alsacias TV (Canal 28)
+https://emisoras.hn:8081/atv/index.m3u8
+
+#EXTINF:-1 group-title="",Aviva TV
+https://video.misistemareseller.com/atvhonduras/atvhonduras/playlist.m3u8
+
+#EXTINF:-1 group-title="",Cholusat Sur 36 [Not 24/7]
+http://audiotvserver.net:1935/livemedia/cholusat/playlist.m3u8
+
+#EXTINF:-1 group-title="",Choluteca TV
+https://emisoras.hn:8081/cholutecatv/playlist.m3u8
+
+#EXTINF:-1 group-title="",Dios Te Ve Infantil
+https://emisoras.hn:8081/diostevekids/playlist.m3u8
+
+#EXTINF:-1 group-title="",EDN TV  [Not 24/7]
+https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
+
+#EXTINF:-1 group-title="",HCH (Hable Como Habla)[Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x81za5c
+
+#EXTINF:-1 group-title="",JBN
+https://emisoras.hn:8081/jbn/index.m3u8
+
+#EXTINF:-1 group-title="",Kerusso TV
+https://emisoras.hn:8081/kerussotv/index.m3u8
+
+#EXTINF:-1 group-title="",Lenca Television (Canal 40) [Not 24/7]
+http://lencatelevision.com:8080/hls/ltv1.m3u8
+
+#EXTINF:-1 group-title="",LTV  [Not 24/7]
+https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8
+
+#EXTINF:-1 group-title="",Q'hubo TV  [Not 24/7]
+https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8
+
+#EXTINF:-1 group-title="",Radio Ideal(La Esperanza)[Not 24/7]
+http://lencatelevision.com:8080/hls/ltv3.m3u8
+
+#EXTINF:-1 group-title="",Sercano TV
+http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",Suyapa TV [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://dai.ly/x833e2b
+
+#EXTINF:-1 group-title="",TEN Canal 10 
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",TV Copán [Not 24/7]
+https://emisoras.hn:8081/tvcopan/index.m3u8
+
+#EXTINF:-1 group-title="",UNAH UTV [Not 24/7]
+https://live-utv.unah.edu.hn/web/salida.m3u8
+
+#EXTINF:-1 group-title="",VTV
+https://dw6a9whylepvl.cloudfront.net/hls/vtv.m3u8
+
+#EXTINF:-1 group-title="",Dios Te Ve
+https://emisoras.hn:8081/diostevetv/playlist.m3u8
+
+#EXTINF:-1 group-title="",Omega Tv [Not 24/7]
+https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8
+
+#EXTINF:-1 group-title="",Radio Imagen(La Esperanza) [Not 24/7]
+http://lencatelevision.com:8080/hls/ltv2.m3u8
+
+#EXTINF:-1 group-title="",TeleDanlí [Not 24/7]
+https://cloud2.streaminglivehd.com:1936/8224/8224/playlist.m3u8

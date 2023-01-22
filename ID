@@ -69,7 +69,7 @@ http://210.210.155.37/uq2663/h/h191/index.m3u8
 #EXTINF:-1 group-title="",Niaga TV
 https://h1.intechmedia.net/intech/ch10.m3u8
 
-#EXTINF:-1 group-title="" ,Nusantara TV
+#EXTINF:-1 group-title="",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
 #EXTINF:-1 group-title="",Pijar TV [Not 24/7]

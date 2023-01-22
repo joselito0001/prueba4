@@ -3,197 +3,398 @@
 #EXTINF:-1 group-title="",BRTV [Not 24/7]
 https://e1.siar.us/badartv/live/playlist.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
+
 #EXTINF:-1 group-title="",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
+
 #EXTINF:-1 group-title="",DMTV Malang
 https://h1.intechmedia.net/intech/ch51.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="",Duta TV [Not 24/7]
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
+
 #EXTINF:-1 group-title="",Elshinta TV [Not 24/7]
 http://210.210.155.37/qwr9ew/s/s10/index.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="",Garuda TV  [Not 24/7]
 https://ms.digdaya.tv/live/digdayatv/live.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
+
 #EXTINF:-1 group-title="",GPR TV
 https://wowza.convergen.co/gprtv/myLive/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="",Hijrah TV
 https://h1.intechmedia.net/intech/ch8.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
+
 #EXTINF:-1 group-title="",Huma Betang TV [Not 24/7]
 https://v3.siar.us/humabetangtv/live/playlist.m3u8
 
-#EXTINF:-1 group-title="",Insan TV (360p) [Geo-blocked]
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
+
+#EXTINF:-1 group-title="",Insan TV
 https://h1.intechmedia.net/intech/ch1.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="",Inspira TV [Not 24/7]
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
+
 #EXTINF:-1 group-title="",Jawa Pos TV [Not 24/7]
 https://v2.siar.us/jawapostv/live/chunks.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="",Magna Channel [Not 24/7]
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
+
 #EXTINF:-1 group-title="",Media Sunnah Aceh
 https://h1.intechmedia.net/intech/ch23.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="",Metro TV [Not 24/7]
 https://hls.youtb.workers.dev/channel/UCzl0OrB3-ehunyotIQvK77A.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
+
 #EXTINF:-1 group-title="",MGS TV [Not 24/7]
 https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="",MQTV [Not 24/7]
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
+
 #EXTINF:-1 group-title="",Muadz
 https://h1.intechmedia.net/intech/ch5.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="",My Cinema
 http://210.210.155.37/uq2663/h/h192/index.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
+
 #EXTINF:-1 group-title="",My Family Channel
 http://210.210.155.37/uq2663/h/h194/index.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="",My Kidz 
 http://210.210.155.37/uq2663/h/h191/index.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
+
 #EXTINF:-1 group-title="",Niaga TV
 https://h1.intechmedia.net/intech/ch10.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
+
 #EXTINF:-1 group-title="",Pijar TV [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/pijartv
+
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="",RadioKita TV
 https://h1.intechmedia.net/intech/ch16.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
+
 #EXTINF:-1 group-title="",Rasyaad TV (360p) [Geo-blocked]
 https://h1.intechmedia.net/intech/ch6.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="",RCTV [Not 24/7]
 https://v10.siar.us/rctv/live/playlist.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
+
 #EXTINF:-1 group-title="",Sangaji TV [Not 24/7]
 https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="",Sunnah Jalan Pasti TV
 https://h1.intechmedia.net/intech/ch17.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
+
 #EXTINF:-1 group-title="",Tegar TV Lampung [Not 24/7]
 https://5bf7b725107e5.streamlock.net/tegartv/tegartv/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="",Trans7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
+
 #EXTINF:-1 group-title="",Trans TV
 https://video.detik.com/transtv/smil:transtv-live.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="",TV Edukasi
 http://118.98.229.118:1935/live/tve.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
+
 #EXTINF:-1 group-title="",TVRI Aceh
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIAceh)/index.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="",TVRI Bali
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBali)/index.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
+
 #EXTINF:-1 group-title="",TVRI Jawa Tengah
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJatengsemarang)/index.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="",TVRI Kalimantan Tengah
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalteng)/index.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
+
 #EXTINF:-1 group-title="",TVRI Sulawesi Tengah
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISultengpalu)/index.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="",TVRI DKI Jakarta [Not 24/7]
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
+
 #EXTINF:-1 group-title="",TVRI Kalimantan Timur
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKaltimsamarinda)/index.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="",TVRI Jambi [Not 24/7]
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJambi)/index.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
+
 #EXTINF:-1 group-title="",TVRI Lampung
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRILampung)/index.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="",TVRI Maluku
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIMalukuambon)/index.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
+
 #EXTINF:-1 group-title="",TVRI Nasional
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="",TVRI Papua
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIPapua)/index.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
+
 #EXTINF:-1 group-title="",TVRI Riau [Not 24/7]
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIriau)/index.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="",TVRI Kalimantan Selatan
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalselbanjarmsn)/index.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
+
 #EXTINF:-1 group-title="",TVRI Sumatera Selatan
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISUMSEL)/index.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="",TVRI Sport
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
+
 #EXTINF:-1 group-title="",TVRI Jawa Barat
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="",TVRI Kalimantan Barat
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalbar)/index.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
+
 #EXTINF:-1 group-title="",TVRI Nusa Tenggara Barat
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINtbmataram)/index.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="",TVRI Sulawesi Barat
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulbarmajene)/index.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
+
 #EXTINF:-1 group-title="",TVRI Sumatera Barat
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="",TVRI World
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
+
 #EXTINF:-1 group-title="",TVRI Yogyakarta
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYogyakarta)/index.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="",TV Tabalong [Not 24/7]
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
+
 #EXTINF:-1 group-title="",UFA 24
 https://h1.intechmedia.net/intech/ch27.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="",UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
+
 #EXTINF:-1 group-title="",Zee Bioskop
 http://210.210.155.37/qwr9ew/s/s32/index.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="",Alwafa Tarim TV (Am Media)
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
+
 #EXTINF:-1 group-title="",ATVLI
 https://wowza.convergen.co/atvli/atvli.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="",Ficom Channel
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
+
 #EXTINF:-1 group-title="",RB TV
 https://h1.intechmedia.net/intech/ch59.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
+
 #EXTINF:-1 group-title="",The Indonesia Channel
 https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://e1.siar.us/badartv/live/playlist.m3u8
